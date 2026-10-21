@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1.0",
+  "org": "bokeh",
+  "repo": "conduct.bokeh.org",
+  "versions": [
+    {
+      "commit": "23c805e46af0417ad512cdc79582c9e6f12f4f48",
+      "parsed_at": "2026-10-21T03:06:56.016119+00:00",
+      "filetree": "filetree/23c805e46af0417ad512cdc79582c9e6f12f4f48.nq.gz",
+      "blobs": [
+        "blob/2e53b77331dde4b521bc2c9128391148be7cb780.nq.gz",
+        "blob/4cfe860c3190db3211a05321b246430bc38006c3.nq.gz",
+        "blob/a528fa0b1cf449458fd1d862bc3ab6c2e4e2a09f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
